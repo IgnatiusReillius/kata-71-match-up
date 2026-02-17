@@ -7,5 +7,11 @@ The idea of this kata is to create the match up game.
 To start, I have to:
 
 - Use HTML/CSS
-- The table must have 4 cards by row and 4 columns
+- The table must have 4 cards by row and 4 rows
 - This time I only have to create the 4 x 4 cards table, and a points counter that will only show 0 points for now
+
+## The game
+
+The game looks like this so far:
+
+![alt text](/screenshots/image.png)
